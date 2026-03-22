@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>選手プロフィール | MONTAGNA TAKAO FC</title>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;700&family=Bebas+Neue&family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="player-page">
+
+<!-- Header -->
+<header class="site-header">
+  <a class="header-logo" href="index.html">
+    <div class="header-emblem-wrap"><img src="images/logo.JPEG" alt="モンターニャ高尾 エンブレム"></div>
+    <div class="header-logo-text">
+      <span class="header-logo-ja">モンターニャ高尾</span>
+      <span class="header-logo-en">MONTAGNA TAKAO FC</span>
+    </div>
+  </a>
+  <a class="back-link" href="index.html">
+    <svg width="11" height="11" viewBox="0 0 11 11" fill="none"><path d="M7.5 2L3.5 5.5L7.5 9" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    BACK
+  </a>
+</header>
+
+<!-- Page -->
+<main class="player-detail-page">
+  <div class="player-detail-card">
+    <div class="card-slice"></div>
+
+    <!-- Top Bar -->
+    <div class="card-top-bar">
+      <div class="club-badge">
+        <div class="club-badge-emblem">⛰️</div>
+        <span class="club-badge-name">MONTAGNA TAKAO FC</span>
+      </div>
+    </div>
+
+    <!-- Body -->
+    <div class="card-body">
+
+      <!-- LEFT: Photo -->
+      <div class="card-left">
+        <div class="bg-number" id="bg-number">10</div>
+        <div class="photo-wrap" id="photo-wrap">
+          <img id="player-photo" src="" alt="選手写真" style="display:none;">
+          <div class="photo-placeholder" id="photo-placeholder">
+            <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+              <circle cx="24" cy="18" r="9" stroke="white" stroke-width="2"/>
+              <path d="M8 42c0-9 7-16 16-16s16 7 16 16" stroke="white" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <span class="photo-placeholder-text">PLAYER PHOTO</span>
+          </div>
+          <div class="pos-overlay">
+            <span class="pos-number" id="display-number">10</span>
+            <span class="pos-label" id="display-pos">MIDFIELDER</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- RIGHT: Info -->
+      <div class="card-right">
+        <div class="name-block">
+          <span class="name-kanji" id="name-kanji"></span>
+          <span class="name-roman" id="name-roman"></span>
+        </div>
+
+        <!-- Position + Number -->
+        <div class="controls-row">
+          <div class="control-cell">
+            <span class="stat-label">POSITION</span>
+            <span class="stat-value" id="stat-position"></span>
+          </div>
+          <div class="control-cell">
+            <span class="stat-label">NUMBER</span>
+            <span class="stat-value" id="stat-number"></span>
+          </div>
+        </div>
+
+        <!-- Stats Grid -->
+        <div class="stat-grid">
+          <div class="stat-cell">
+            <span class="stat-label">DATE OF BIRTH</span>
+            <span class="stat-value" id="stat-dob"></span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-label">BIRTHPLACE</span>
+            <span class="stat-value" id="stat-birthplace"></span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-label">HEIGHT</span>
+            <span class="stat-value" id="stat-height"></span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-label">WEIGHT</span>
+            <span class="stat-value" id="stat-weight"></span>
+          </div>
+        </div>
+
+        <!-- Feature -->
+        <div class="feature-block">
+          <div class="feature-header">
+            <span class="feature-header-label">PLAYER PROFILE — 特徴</span>
+          </div>
+          <div class="feature-text" id="feature-text"></div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="card-bottom-bar">
+      <div class="bottom-brand">
+        <span>モンターニャ高尾</span>
+        <span class="bottom-brand-en">MONTAGNA TAKAO FC — PLAYER</span>
+      </div>
+      <div class="share-row">
+        <span class="share-tag">SHARE</span>
+        <!-- X -->
+        <button class="share-btn share-x" onclick="shareX()" title="X でシェア">
+          <svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.402 6.231H2.744l7.737-8.858L1.488 2.25h6.044l4.261 5.636zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        </button>
+        <!-- Instagram -->
+        <button class="share-btn share-ig" onclick="shareInstagram()" title="Instagram でシェア">
+          <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg>
+        </button>
+        <!-- LINE -->
+        <button class="share-btn share-line" onclick="shareLine()" title="LINE でシェア">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor"><path d="M12 2C6.48 2 2 5.92 2 10.74c0 3.11 1.96 5.84 4.91 7.42-.19.71-.7 2.57-.8 2.97-.12.5.19.49.4.36.16-.1 2.56-1.73 3.6-2.43.62.09 1.25.14 1.89.14 5.52 0 10-3.92 10-8.74C22 5.92 17.52 2 12 2zm-3.2 11.4H7v-5h1.8v5zm3.4 0H10.4v-5h1.8v5zm3.4 0h-1.8l-2-3v3h-1.2v-5h1.8l1.8 2.7V8.4H15.6v5z"/></svg>
+        </button>
+        <!-- Link copy -->
+        <button class="share-btn share-link" onclick="copyLink()" title="URLをコピー">
+          <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg>
+        </button>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<!-- データファイル -->
+<script src="data/players.js"></script>
+<!-- メインスクリプト -->
+<script src="js/player.js"></script>
+</body>
+</html>
