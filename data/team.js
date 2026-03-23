@@ -1,7 +1,7 @@
 // 選手一覧データ（チームページ用）
 // 編集方法: 配列に選手オブジェクトを追加・編集してください
 var TEAM_DATA = [
-  { id: 1, number: 6, position: "DF", name: "知見 卓磨", name_en: "TAKUMA CHIKEN", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "顔面でセーブします", image: "" },
+  { id: 1, number: 6, position: "DF", name: "知見 卓磨", name_en: "TAKUMA CHIKEN", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 2, number: 7, position: "MF", name: "山本 蓮", name_en: "REN YAMAMOTO", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 3, number: 8, position: "DF", name: "松尾澤 蒼一郎", name_en: "SOITIRO MATUOZAWA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 4, number: 9, position: "MF", name: "小池 啓陽", name_en: "HIROYA KOIKE", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
@@ -10,7 +10,7 @@ var TEAM_DATA = [
   { id: 7, number: 13, position: "MF", name: "野崎 遼平", name_en: "RYOHEI NOZAKI", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 8, number: 16, position: "MF", name: "新田 真仁", name_en: "MANATO NITTA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 9, number: 18, position: "FW", name: "原田 塁", name_en: "RUI HARADA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
-  { id: 10, number: 19, position: "GK", name: "岡部 海慈", name_en: "KAIJI OKABE", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
+  { id: 10, number: 19, position: "GK", name: "岡部 海慈", name_en: "KAIJI OKABE", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "顔面でセーブします。", image: "" },
   { id: 11, number: 22, position: "GK", name: "奥秋 柚生", name_en: "YUZUKI OKUAKI", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 12, number: 24, position: "GK", name: "阿藤 絢太朗", name_en: "KENTARO ATO", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 13, number: 27, position: "DF", name: "坂田 和真", name_en: "KAZUMA SAKATA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
