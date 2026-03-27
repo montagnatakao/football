@@ -2,7 +2,7 @@
 // 編集方法: 配列に選手オブジェクトを追加・編集してください
 // image: 選手写真のパス（例: "images/player_10.jpg"）空欄ならプレースホルダー表示
 var PLAYERS_DATA = [
-{ id: 1, number: 1, position: "MF", name: "赤松 孟", name_en: "TAKERU AKAMATSU", birthday: "", birthplace: "  東京都", height: 0, weight: 0, features: "", image: "" },
+{ id: 1, number: 1, position: "MF", name: "赤松 孟", name_en: "HAJIME AKAMATSU", birthday: "", birthplace: "  東京都", height: 0, weight: 0, features: "", image: "" },
 { id: 2, number: 6, position: "DF", name: "知見 卓磨", name_en: "TAKUMA CHIKEN", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
 { id: 3, number: 7, position: "MF", name: "山本 蓮", name_en: "REN YAMAMOTO", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
 { id: 4, number: 8, position: "DF", name: "松尾澤 蒼一郎", name_en: "SOITIRO MATUOZAWA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
