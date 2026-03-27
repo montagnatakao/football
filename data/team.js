@@ -18,7 +18,7 @@ var TEAM_DATA = [
 { id: 15, number: 63, position: "MF", name: "市川 祥庸", name_en: "SYOYO ICHIKAWA", birthplace: "東京都", bio: "" },
 { id: 16, number: 64, position: "GK", name: "一村 颯", name_en: "HAYATO ICHIMURA", birthplace: "東京都", bio: "" },
 { id: 17, number: 76, position: "MF", name: "清水 悠右", name_en: "YUSUKE SIMIZU", birthplace: "東京都", bio: "ドリブル" },
-{ id: 18, number: 77, position: "GK", name: "井本 航輔", name_en: "IMOTO KOSUKE", birthplace: "東京都", bio: "" },
+{ id: 18, number: 77, position: "GK", name: "井本 航輔", name_en: "IMOTO KOSUKE", birthplace: "東京都", bio: "見積もり不可の守護神" },
 { id: 19, number: 80, position: "MF", name: "野本 琉功", name_en: "RIKU NOMOTO", birthplace: "東京都", bio: "" },
 { id: 20, number: 81, position: "MF", name: "栁澤 健太郎", name_en: "KENTARO YANAGISAWA", birthplace: "東京都", bio: "オフザボールの動きでチャンスを作る助っ人外国人" },
 { id: 21, number: 83, position: "FW", name: "樋田 哲史", name_en: "SATOSHI HIDA", birthplace: "東京都", bio: "" },
