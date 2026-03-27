@@ -12,7 +12,7 @@ var PLAYERS_DATA = [
   { id: 8, number: 16, position: "MF", name: "新田 真仁", name_en: "MANATO NITTA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 9, number: 18, position: "FW", name: "原田 塁", name_en: "RUI HARADA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 10, number: 19, position: "GK", name: "岡部 海慈", name_en: "KAIJI OKABE", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "顔面でセーブします。", image: "" },
-  { id: 11, number: 22, position: "GK", name: "奥秋 柚生", name_en: "YUZUKI OKUAKI", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
+  { id: 11, number: 22, position: "DF", name: "奥秋 柚生", name_en: "YUZUKI OKUAKI", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 12, number: 24, position: "GK", name: "阿藤 絢太朗", name_en: "KENTARO ATO", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 13, number: 27, position: "DF", name: "坂田 和真", name_en: "KAZUMA SAKATA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
   { id: 14, number: 63, position: "MF", name: "市川 祥庸", name_en: "SYOYO ICHIKAWA", birthday: "", birthplace: "東京都", height: 0, weight: 0, features: "", image: "" },
