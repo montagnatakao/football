@@ -1,7 +1,7 @@
 // 選手一覧データ（チームページ用）
 // 編集方法: 配列に選手オブジェクトを追加・編集してください
 var TEAM_DATA = [
-{ id: 1, number: 0, position: "MF", name: "赤松 孟", name_en: "HAJIME AKAMATSU", birthplace: "東京都", bio: "" },
+{ id: 1, number: 1, position: "MF", name: "赤松 孟", name_en: "HAJIME AKAMATSU", birthplace: "東京都", bio: "" },
 { id: 2, number: 6, position: "DF", name: "知見 卓磨", name_en: "TAKUMA CHIKEN", birthplace: "東京都", bio: "守ります" },
 { id: 3, number: 7, position: "MF", name: "山本 蓮", name_en: "REN YAMAMOTO", birthplace: "東京都", bio: "" },
 { id: 4, number: 8, position: "DF", name: "松尾澤 蒼一郎", name_en: "SOITIRO MATUOZAWA", birthplace: "東京都", bio: "" },
