@@ -31,7 +31,7 @@ var PAGES_DATA = {
     content: "【試合観戦について】\n\nホームゲームは無料でご観戦いただけます。\n\n試合日程はサイト内のMATCHページ、またはSNSでご確認ください。\n\n皆様のご声援よろしくお願いします！"
   },
   "contact": {
-    title: "お問い合わせ",
-    content: "【お問い合わせ】\n\nInstagram: @montagna.takao\n\nInstagramメッセージにてお気軽にお問い合わせください。\n\n（お問い合わせフォームは準備中です）"
-  }
+  "title": "お問い合わせ",
+  "content": "【お問い合わせ】\n\n<a href='https://www.instagram.com/montagna.takao' target='_blank' rel='noopener noreferrer'>Instagram</a>メッセージにてお気軽にお問い合わせください。\n\n<a href='https://forms.gle/ayns6bNGQRFe6Umu7' target='_blank' rel='noopener noreferrer'>お問い合わせフォーム</a>"
+}
 };
