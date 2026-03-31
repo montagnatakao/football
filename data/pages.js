@@ -32,6 +32,6 @@ var PAGES_DATA = {
   },
   "contact": {
     title: "お問い合わせ",
-    content: "【お問い合わせ】\n\nInstagram: @montagna.takao\nYouTube: MONTAGNA TAKAO FC\n\nInstagramメッセージにてお気軽にお問い合わせください。\n\n（お問い合わせフォームは準備中です）"
+    content: "【お問い合わせ】\n\nInstagram: @montagna.takao\n\nInstagramメッセージにてお気軽にお問い合わせください。\n\n（お問い合わせフォームは準備中です）"
   }
 };
