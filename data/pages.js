@@ -16,7 +16,7 @@ var PAGES_DATA = {
   },
   "partner": {
     title: "パートナー",
-    content: "【パートナー企業・団体】\n\n現在パートナーを募集しています。\nご興味のある企業・団体は下記メールアドレスにご連絡ください。\n\nお問い合わせ先:モンターニャ高尾 総務部\nmontagnatakao@gmail.com"
+    content: "【パートナー企業・団体】\n\n現在パートナーを募集しています。\nご興味のある企業・団体は下記メールアドレスにご連絡ください。\n\nお問い合わせ先:モンターニャ高尾\nmontagnatakao@gmail.com"
   },
   "training": {
     title: "練習場案内",
