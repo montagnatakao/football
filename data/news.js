@@ -25,7 +25,7 @@ var NEWS_DATA = [
     url: "article/002.html"
   },
      {
-    id: 2,
+    id: 3,
     category: "試合情報",
     date: "2026.03.26",
     title: "【大会結果】モンターニャ高尾 高校卒業記念CUPに出場",
