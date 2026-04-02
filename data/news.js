@@ -37,7 +37,7 @@ var NEWS_DATA = [
        {
     id: 4,
     category: "試合情報",
-    date: "2026.03.26.1",
+    date: "2026.03.27",
     title: "モンターニャ高尾",
     image: "images/favicon.png",
     summary: "高校卒業記念CUPの結果報告です。守備で健闘を見せましたが、惜しくも12位となりました。",
