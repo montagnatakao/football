@@ -5,7 +5,7 @@
 // summary: トップページやニュース一覧に表示する概要文（60文字程度推奨）
 var NEWS_DATA = [
   {
-    id: 1,
+    id: 3,
     category: "お知らせ",
     date: "2026.03.23",
     title: "モンターニャ高尾 公式サイトをオープンしました",
@@ -25,7 +25,7 @@ var NEWS_DATA = [
     url: "article/002.html"
   },
      {
-    id: 3,
+    id: 1,
     category: "試合情報",
     date: "2026.03.26",
     title: "【大会結果】モンターニャ高尾 高校卒業記念CUPに出場",
