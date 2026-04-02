@@ -27,7 +27,7 @@ var NEWS_DATA = [
      {
     id: 2,
     category: "試合情報",
-    date: "2026.03.25",
+    date: "2026.03.26",
     title: "【大会結果】モンターニャ高尾 高校卒業記念CUPに出場",
     image: "images/thumbnail.png",
     summary: "高校卒業記念CUPの結果報告です。守備で健闘を見せましたが、惜しくも12位となりました。",
