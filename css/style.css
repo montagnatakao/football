@@ -454,6 +454,10 @@ a.news-card { text-decoration: none; color: inherit; display: block; }
   padding: 4px 10px;
   text-transform: uppercase;
 }
+/* カテゴリ色 — ニュースカードと統一 */
+.article-cat.match  { background: #c0392b; }
+.article-cat.report { background: var(--gray); }
+.article-cat.info   { background: var(--navy-light); }
 .article-date-tag { font-size: 11px; color: var(--gray); letter-spacing: 0.04em; }
 .article-title {
   font-family: 'Shippori Mincho', serif;
