@@ -32,6 +32,6 @@ var PAGES_DATA = {
   },
   "contact": {
   "title": "お問い合わせ",
-  "content": "【お問い合わせ】\n\nInstagramメッセージまたはメールにてお気軽にお問い合わせください。\n\nモンターニャ高尾 公式Instagram\n@montagna.takao\n\nモンターニャ高尾\nmontagnatakao@gmail.com"
+  "content": "【お問い合わせ】\n\nメールまたはInstagramメッセージにてお気軽にお問い合わせください。\n\nモンターニャ高尾\nmontagnatakao@gmail.com\n\nモンターニャ高尾 公式Instagram\n@montagna.takao"
 }
 };
