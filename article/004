@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" href="../images/favicon.png" type="image/png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ▼ 記事ごとに編集してください ▼ -->
+<title>【発表】モンターニャ高尾 新ユニフォーム | MONTAGNA TAKAO FC</title>
+<meta property="og:title" content="【発表】モンターニャ高尾 新ユニフォーム">
+<meta property="og:description" content="本日新ユニフォームを発表いたしました。コンセプトやデザインに込めた思いを紹介します。">
+<meta property="og:image" content="../images/thumbnail.png">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="MONTAGNA TAKAO FC">
+<!-- ▲ ここまで ▲ -->
+
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;700&family=Bebas+Neue&family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body class="article-standalone">
+
+<!-- Header -->
+<header class="site-header">
+  <a class="header-logo" href="../index.html">
+    <div class="header-emblem-wrap"><img src="../images/logo.png" alt="モンターニャ高尾 エンブレム"></div>
+    <div class="header-logo-text">
+      <span class="header-logo-ja">モンターニャ高尾</span>
+      <span class="header-logo-en">MONTAGNA TAKAO FC</span>
+    </div>
+  </a>
+  <a class="back-link" href="../index.html">
+    <svg width="11" height="11" viewBox="0 0 11 11" fill="none"><path d="M7.5 2L3.5 5.5L7.5 9" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    TOP
+  </a>
+</header>
+
+<!-- Article -->
+<div class="article-page">
+  <div class="article-hero-img">
+    <img src="../images/thumbnail.png" alt="">
+  </div>
+  <div class="article-content-wrap">
+    <div class="article-top-row">
+      <!-- カテゴリに応じて match 試合情報/ report レポート/ info お知らせを使い分け -->
+      <span class="article-cat info">お知らせ</span>
+      <span class="article-date-tag">2026.05.15</span>
+    </div>
+    <h1 class="article-title">>【発表】モンターニャ高尾 新ユニフォーム | MONTAGNA TAKAO FC</h1>
+    <div class="article-divider"></div>
+    <div class="article-body">
+       <p>こんにちは。モンターニャ高尾です。</p>
+      
+      <p>本日、モンターニャ高尾は新ユニフォームを発表いたしましたリバプール・フットボール・センター・川崎にて開催された高校卒業記念CUPに出場しました。<br>
+      大会結果を紹介いたします。</p>
+      
+      <p>【予選リーグ】<br>
+      第2試合 vs 上木崎FC 0-1 LOSE<br>
+      第3試合 vs 膝水 0-2 LOSE<br>
+      第6試合 vs 舞岡FC 0-2 LOSE</p>
+      
+      <p>【下位トーナメント】<br>
+      準々決勝 vs 舞岡FC 0-3 LOSE</p>
+      
+      <p>守備は健闘するも得点を奪えず全敗。<br>
+      12位という結果に終わりました。</p>
+      
+      <p>悔しい結果となりましたが、この経験を次に活かして頑張ります！<br>
+      モンターニャ高尾 一同</p>
+    </div>
+    <div class="article-footer">
+      <a class="article-footer-back" href="../index.html">&larr; TOP PAGE</a>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-bottom">
+      <div class="footer-logo">
+        <img src="../images/logo.png" alt="モンターニャ高尾 エンブレム">
+        <div>
+          <div class="footer-logo-text">モンターニャ高尾</div>
+          <div class="footer-logo-en">MONTAGNA TAKAO FC</div>
+        </div>
+      </div>
+      <div class="footer-copy">&copy; MONTAGNA TAKAO FC</div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
