@@ -4,7 +4,5 @@
 // home_away: "HOME" / "AWAY"
 // score_home, score_away: 未実施の場合は null
 var MATCHES_DATA = [
-  { id: 3, type: "東京・調布ソサイチ大会 F3カテゴリ", date: "2026-05-05", time: "12:00", home_away: "AWAY", team: "モンターニャ高尾", opponent: "",  score_home: null, score_away: null, venue: "J-SOCIETY FOOTBALL PARK 調布" },
-  { id: 2, type: "東京・調布ソサイチ大会 F2カテゴリ", date: "2026-05-05", time: "15:00", home_away: "AWAY", team: "モンターニャ高尾", opponent: "",  score_home: null, score_away: null, venue: "J-SOCIETY FOOTBALL PARK 調布" },
   { id: 1, type: "UNIVA 7’S TOKYO 第1節", date: "2026-06-22", time: "19:05", home_away: "AWAY", team: "モンターニャ高尾", opponent: "Papillon FC",  score_home: null, score_away: null, venue: "J-SOCIETY FOOTBALL PARK 調布" },
 ];
