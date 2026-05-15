@@ -3,7 +3,7 @@
 // instagram_url: Instagramプロフィールページ
 // instagram_posts: 埋め込みたいInstagram投稿のURL（配列）
 var SOCIAL_DATA = {
-  youtube_url: "https://youtube.com/shorts/g0BYpMiclw8?si=3eSWWeZhUbKM3Cdl",
+  youtube_url: "https://youtu.be/yWKPtczx4Oo",
   instagram_url: "https://www.instagram.com/montagna.takao",
   instagram_posts: [
     "https://www.instagram.com/p/DWRBNRTEwwV/",
