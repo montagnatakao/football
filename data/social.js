@@ -7,6 +7,6 @@ var SOCIAL_DATA = {
   instagram_url: "https://www.instagram.com/montagna.takao",
   instagram_posts: [
     "https://www.instagram.com/p/DYXLaNNT-y8",
-    "https://www.instagram.com/p/DYO-ljhk79r/?img_index=8"
+    "https://www.instagram.com/p/DYO-ljhk79r"
   ]
 };
